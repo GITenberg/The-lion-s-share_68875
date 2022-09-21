@@ -1,0 +1,35 @@
+_repo: The-lion-s-share_68875
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ashe, Edmund Marion (E. M.)
+    gutenberg_agent_id: '54989'
+    url: http://www.gutenberg.org/2009/agents/54989
+creator:
+  author:
+    agent_name: Thanet, Octave
+    alias: French, Alice
+    birthdate: 1850
+    deathdate: 1934
+    gutenberg_agent_id: '1073'
+    url: http://www.gutenberg.org/2009/agents/1073
+    wikipedia: https://en.wikipedia.org/wiki/Alice_French
+description: ''
+gutenberg_issued: '2022-08-31'
+identifiers:
+  gutenberg: '68875'
+language: en
+pgterms:marc904: https://archive.org/details/lionsshare00than/page/n9/mode/2up
+pgterms:marc905: 20201107073219thanet
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :The Bobbs-Merrill Company,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The lion's share
+url: http://www.gutenberg.org/ebooks/68875
