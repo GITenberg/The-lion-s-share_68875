@@ -5,6 +5,9 @@ contributor:
     agent_name: Ashe, Edmund Marion (E. M.)
     gutenberg_agent_id: '54989'
     url: http://www.gutenberg.org/2009/agents/54989
+covers:
+- cover_type: archival
+  image_path: 68875-h/images/cover.jpg
 creator:
   author:
     agent_name: Thanet, Octave
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1073
     wikipedia: https://en.wikipedia.org/wiki/Alice_French
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68875#The-lion-s-share
 gutenberg_issued: '2022-08-31'
 identifiers:
   gutenberg: '68875'
